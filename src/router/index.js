@@ -36,7 +36,7 @@ import nestedRouter from './modules/nested'
 /**
  * constantRoutes
  * a base page that does not have permission requirements
- * all roles can be accessed
+ * all roles can be accesset
  */
 export const constantRoutes = [
   {
